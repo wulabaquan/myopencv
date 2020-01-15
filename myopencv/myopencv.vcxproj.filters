@@ -18,5 +18,16 @@
     <ClCompile Include="myopencv.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chapter1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="s_global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

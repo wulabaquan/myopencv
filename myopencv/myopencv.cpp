@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
-
+#include "Chapter1.h"
 int main()
 {
-    std::cout << "Hello World!\n";
+	Chapter1 c1;
+//	c1.f_viewImage_test1();
+	c1.f_viewVideo_test1();
+	system("pause");
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
