@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/myopencv/.vs/myopencv/v16/Browse.VC.db
